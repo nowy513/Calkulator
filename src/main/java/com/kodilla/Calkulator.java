@@ -19,5 +19,6 @@ class Application {
         Calkulator calkulator = new Calkulator();
         calkulator.addition(3, 4);
         calkulator.subtraction(3, 8);
+        System.out.println("Działa");
     }
 }
